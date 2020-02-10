@@ -1,0 +1,25 @@
+table
+{   
+    border: 50px solid black;
+	padding: 10px;
+    border-collapse: collapse;
+    border-style: solid;
+}
+
+td
+    {
+	width: 40px;
+    height: 40px;
+    border-radius: 20px;
+  
+
+    } 
+	
+.jaune {
+background-color: #F7FF00;
+}
+
+
+.rouge {
+background-color: #FF0000;
+}
